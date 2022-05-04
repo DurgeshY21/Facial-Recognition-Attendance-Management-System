@@ -18,5 +18,7 @@ Basically there are four steps & algorithms are used-
 ### 4. FINDING PERSON'S NAME FROM ENCODING
   #### --> SVM Classifier (Classification algoritm)-
         It matches the encoding of captured faces with closely matching measurements of given images.
-        
-#### Using these algoritm attendance is marked on a csv file, but for **Monitoring Attendance** on real time basis I have created a **FACE ATTENDANCE SYSTEM Application** using **Oracle APEX**, on which user have to give his username and password and then he can see the **Dashboard, Face Attendance Search, Face Attendance Report, Calendar** on which analytics of attendances are available using different data representation models. Data are modified on a regular time interval i.e., If student is marking his attendance on system then his details are sent on application through POST method of Oracle REST Data Services (ORDS) at that time and his attendance details are shown on the application.
+ 
+ 
+ 
+Using these algorithm attendance is marked on a csv file, but for **Monitoring Attendance** on real time basis I have created a **FACE ATTENDANCE SYSTEM Application** using **Oracle APEX**, on which user have to give his username and password and then he can see the **Dashboard, Face Attendance Search, Face Attendance Report, Calendar** on which analytics of attendances are available using different data representation models. Data are modified on a regular time interval i.e., If student is marking his attendance on system then his details are sent on application through POST method of Oracle REST Data Services (ORDS) at that time and his attendance details are shown on the application.
