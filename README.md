@@ -1,4 +1,4 @@
-# Final-Year-Project
+# FINAL-YEAR-PROJECT
 ## Face Recognition Attendance System using Machine Learning
 
 In this project, I have developed an attendance system through which real time attendance of students, employees can be marked on real time basis just by showing their face or their ID card in which photo is available, to the camera of the device on which project is running.
